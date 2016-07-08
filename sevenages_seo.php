@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       Seven Ages SEO
  * Plugin URI:        https://github.com/soulexpression/sevenages_seo
- * Description:       Adds Google Analytics, Facebook Pixels, and Facebook tags
+ * Description:       Adds Google Analytics, Facebook Pixels, and Facebook OG tags
  * Version:           1.0.0
  * Author:            Max Azarcon
  * Author URI:        http://maxazarcon.com/
