@@ -143,7 +143,7 @@ class Sevenages_seo_Admin {
 	 */
  
 	public function display_plugin_setup_page() {
-	    include_once( 'partials/wp-sevenages_seo-display.php' );
+	    include_once( 'partials/sevenages_seo-admin-display.php' );
 	}
 
 }
